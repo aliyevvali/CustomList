@@ -9,13 +9,16 @@ namespace _30._02._2022task
     {
         static void Main(string[] args)
         {
-            
-            CustomList<int> list = new CustomList<int>(1,2,3,4,5,6);
+
+            CustomList<int> list = new CustomList<int>(1,2,3,4,5,6,7);
+            //Console.WriteLine(list[100]); (indexer)
             list.Add(20);
-            list.Info();
-             
-            
-            
+            list.Remove(2);
+            list.Show();
+
+
+
+
 
 
         }

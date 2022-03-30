@@ -12,3 +12,17 @@ C:\Users\Professional\source\repos\30.02.2022task\30.02.2022task\obj\Debug\netco
 C:\Users\Professional\source\repos\30.02.2022task\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.dll
 C:\Users\Professional\source\repos\30.02.2022task\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.pdb
 C:\Users\Professional\source\repos\30.02.2022task\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.genruntimeconfig.cache
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\bin\Debug\netcoreapp3.1\30.02.2022task.exe
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\bin\Debug\netcoreapp3.1\30.02.2022task.deps.json
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\bin\Debug\netcoreapp3.1\30.02.2022task.runtimeconfig.json
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\bin\Debug\netcoreapp3.1\30.02.2022task.runtimeconfig.dev.json
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\bin\Debug\netcoreapp3.1\30.02.2022task.dll
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\bin\Debug\netcoreapp3.1\30.02.2022task.pdb
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.csproj.AssemblyReference.cache
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.AssemblyInfoInputs.cache
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.AssemblyInfo.cs
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.csproj.CoreCompileInputs.cache
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.dll
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.pdb
+C:\Users\tu4pw6wq5\Desktop\CustomList\30.02.2022task\obj\Debug\netcoreapp3.1\30.02.2022task.genruntimeconfig.cache

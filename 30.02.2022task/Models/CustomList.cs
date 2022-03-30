@@ -54,6 +54,7 @@ namespace _30._02._2022task.Models
             }
             set
             {
+                
                 _list[index] = value;
             }
             
@@ -71,7 +72,7 @@ namespace _30._02._2022task.Models
             _list[_list.Length - 1] = input;
 
         }
-        public void Info()
+        public void Show()
         {
             foreach (T item in _list)
             {
@@ -80,21 +81,27 @@ namespace _30._02._2022task.Models
         }
         public void Remove(T input)
         {
-            
-            
+            //for (int i = 0; i < _list.Length-1; i++)
+            //{
+            //    if (i.Equals(input))
+            //    {
+
+                    
+            //    }
+            //}            
         }
         public void Reverse()
         {
-            //for (int i = 0; i < _list.Length; i++)
+            //_templist = _list;
+            //for (int i = _templist.Length - 1; i > 0; i--)
             //{
-            //    _list[_list.Length - 1] = _list[0];
-                
+                 
             //}
-            //Console.WriteLine(_list);
+            
         }
         public void Clear()
         {
-            Array.Clear(_list,0,_list.Length);
+            Array.Resize(ref _list,0);
         }
         public int IndexOf(T input)
         {
